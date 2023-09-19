@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
+  - file: The_Basic_Elements
+  - file: Teaching_with_2i2c
   - file: acknowledgements
-# - file: notebooks
-# - file: markdown-notebooks
